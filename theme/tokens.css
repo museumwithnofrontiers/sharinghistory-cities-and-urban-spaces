@@ -1,9 +1,27 @@
 /*
- * The visual identity of this exhibition: its styles, as Sharing History's
- * virtual exhibition pages printed them (exhibitions/AWE/_styles.css.php,
- * from the exhibition's row of sh_exhibitions_styles), as `--sh-*` tokens.
- * viewer-layout's minisite-sharinghistory.css lays the pages out with them.
- * This file belongs to the webdesigner: change a value here.
- *
- * TODO(dataset): written by inventory-app's scripts/minisites/sharinghistory-minisite.mjs.
+ * Cities and Urban Spaces: its styles, as Sharing History's virtual exhibition pages printed
+ * them (exhibitions/AWE/_styles.css.php for exhibition 3, from
+ * sh_exhibitions_styles). Written by inventory-app's
+ * scripts/minisites/sharinghistory-minisite.mjs.
  */
+:root {
+  --sh-head-bg: #614537;
+  --sh-head-color: #FFFFFF;
+  --sh-body-bg: #A06E55;
+  --sh-footer-bg: #614537;
+  --sh-footer-color: #FFFFFF;
+  --sh-footer-icon-bg: #614537;
+  --sh-footer-icon-color: #FFFFFF;
+  --sh-menu1-bg: #614537;
+  --sh-menu1-color: #FFFFFF;
+  --sh-menu2-bg: #614537;
+  --sh-menu2-color: #FFFFFF;
+  --sh-tooltip-bg: #A06E55;
+  --sh-tooltip-border: #614537;
+  --sh-tooltip-color: #FFFFFF;
+  --sh-exh-right-bg: #614537;
+  --sh-exh-right-color: #614537;
+  --sh-home-image-color: #E1CEBF;
+  --sh-intro-image-color: #E1CEBF;
+  --sh-exh-image-color: #E1CEBF;
+}
