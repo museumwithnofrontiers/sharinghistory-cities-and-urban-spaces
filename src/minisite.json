@@ -76,6 +76,23 @@
       "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/33a5d611-575b-5cd7-aa48-3fa4bc39c3fd/55debb27-32a1-5186-8d72-a49b586da747"
     }
   ],
+  "logos": [
+    {
+      "image": "legacy/logos/item_logo_13.png",
+      "link": "https://sharinghistory.museumwnf.org/pm_partner.php?id=HU_01;hu&shpro=AWE&",
+      "tip": "Eszterh&aacute;za Centre for Culture, Research and Festivals, Fertőd, Hungary"
+    },
+    {
+      "image": "legacy/logos/item_logo_23.png",
+      "link": "https://sharinghistory.museumwnf.org/pm_partner.php?id=LB_01;lb&shpro=AWE&",
+      "tip": "The Lebanese University, Beirut, Lebanon"
+    },
+    {
+      "image": "legacy/logos/item_logo_33.png",
+      "link": "https://sharinghistory.museumwnf.org/pm_partner.php?id=PT_01;pt&shpro=AWE&",
+      "tip": "University of &Eacute;vora (History Department), &Eacute;vora, Portugal"
+    }
+  ],
   "partnerLinks": {
     "https://sharinghistory.museumwnf.org/pm_partner.php?id=HU_01;hu&shpro=AWE&": "https://museumwithnofrontiers.github.io/sharinghistory/#/partner/2e3463e0-e2cf-5e10-be14-9324b7a5c19e",
     "https://sharinghistory.museumwnf.org/pm_partner.php?id=LB_01;lb&shpro=AWE&": "https://museumwithnofrontiers.github.io/sharinghistory/#/partner/f5c11bd8-33ca-5552-a5d9-8437afd6ee27",
