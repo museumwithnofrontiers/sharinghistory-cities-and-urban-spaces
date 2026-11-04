@@ -1,5 +1,5 @@
 {
-  "about": "The frame this website takes from legacy Sharing History's virtual exhibition Cities and Urban Spaces (exhibitions/AWE/, exhibition 3), each file as legacy serves it, byte for byte: the pages' icons and strips, and the three pictures behind the exhibition's title (its styles' home_image, intro_image and exh_image). tests/assets.test.js checks every file against its hash.",
+  "about": "The frame this website takes from legacy Sharing History's virtual exhibition Cities and Urban Spaces (exhibitions/AWE/, exhibition 3), each file as legacy serves it, byte for byte: the pages' icons and strips, the three pictures behind the exhibition's title (its styles' home_image, intro_image and exh_image) and the partners' logos on the home page (logos/). tests/assets.test.js checks every file against its hash.",
   "files": {
     "theme/assets/legacy/arrow_black_down.gif": {
       "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/arrow_black_down.gif",
@@ -44,6 +44,18 @@
     "theme/assets/legacy/intro_bg.jpg": {
       "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/3/intro_bg.jpg",
       "sha256": "b0c1f9423f8336d3033e808a5c823139903c27451ff0162a0a9f5e9d960e08c1"
+    },
+    "theme/assets/legacy/logos/item_logo_13.png": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/3/item_logo_13.png",
+      "sha256": "8feea33b1bc64ef16e13f1e91ab34e18fb7083d156283e7182af007bde2c538c"
+    },
+    "theme/assets/legacy/logos/item_logo_23.png": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/3/item_logo_23.png",
+      "sha256": "2942b009af427b531f8ddf643740da670eb112426d0c8713d349aa954af5fa11"
+    },
+    "theme/assets/legacy/logos/item_logo_33.png": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/3/item_logo_33.png",
+      "sha256": "6e42fd6335171fa45208fff990f8b37d84b2bf34b81bf39577cb9f0b71fd8914"
     },
     "theme/assets/legacy/magnify.png": {
       "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/magnify.png",
